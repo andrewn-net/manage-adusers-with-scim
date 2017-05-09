@@ -1,2 +1,2 @@
 # manage-adusers-with-scim
-Use ADFS with cloud apps?  This script allows you to manage Active Directory users and provision/de-provision users in cloud applications that support SCIM.  This example illustrates a basic use case with Slack.
+This script provides a simple example of automating the creation/disabling of users in Active Directory, and provisioning/de-provisioning users in cloud applications that support SCIM.  This example illustrates a basic use case with Slack.
